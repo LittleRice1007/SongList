@@ -20,8 +20,20 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
-        // 2021/1/10 新曲多め？！ sing a song
-        ['1N_j3LoqAwE', 120, 209, "くちづけDiamond Short"],
+        // 2020.10.19 【歌枠/#1】まったりお歌配信♪
+        ['KIWpV4sXoEQ', 385, 662, "風になる"],
+        ['KIWpV4sXoEQ', 1096, 1415, "ループ"],
+        ['KIWpV4sXoEQ', 1570, 1774, "ただ君に晴れ"],
+        ['KIWpV4sXoEQ', 2187, 2428, "YUME日和"],
+        ['KIWpV4sXoEQ', 2638, 2917, "ハロ/ハワユ"],
+        ['KIWpV4sXoEQ', 3239, 3488, "only my railgun"],
+        ['KIWpV4sXoEQ', 3883, 4124, "君の体温"],
+        ['KIWpV4sXoEQ', 4316, 4658, "君の知らない物語"],
+        ['KIWpV4sXoEQ', 4896, 5213, "ハナミズキ"],
+        ['KIWpV4sXoEQ', 5419, 5508, "香水"],
+        ['KIWpV4sXoEQ', 5665, 5967, "キラキラ"],
+        ['KIWpV4sXoEQ', 6192, 6416, "あまのテーマ"],
+        ['KIWpV4sXoEQ', 6918, 7249, "変わらないもの"],
 
     ];
 
