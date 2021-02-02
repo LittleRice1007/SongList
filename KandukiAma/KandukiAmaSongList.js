@@ -20,6 +20,25 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.10.27 【歌枠/#4】アカペラ歌枠♪   //無配樂，優先篩掉
+      //['6LSNi5Gup_Q', 344, , "テルーの唄"],//被消音
+        ['6LSNi5Gup_Q', 890, 975, "蒼のエーテル"],
+        ['6LSNi5Gup_Q', 1336, 1511, "天ノ弱"],
+        ['6LSNi5Gup_Q', 1916, 1974, "あしたもあそぼう"],
+        ['6LSNi5Gup_Q', 2444, 2508, "風の歌をうたおう"],
+        ['6LSNi5Gup_Q', 2940, 3180, "ダイヤモンドクレパス"],
+        ['6LSNi5Gup_Q', 3520, 3793, "rain stops, good-bye"],
+        ['6LSNi5Gup_Q', 3924, 4125, "かくれんぼ"],
+        ['6LSNi5Gup_Q', 4790, 4870, "プラチナ"],
+        ['6LSNi5Gup_Q', 5010, 5184, "カムパネルラ"],
+        ['6LSNi5Gup_Q', 5410, 5652, "secret base"],
+        ['6LSNi5Gup_Q', 5866, 6017, "独りんぼエンヴィー"],
+        ['6LSNi5Gup_Q', 6160, 6455, "just be friends"],
+        ['6LSNi5Gup_Q', 6756, 6871, "Trancing Pulse"],
+        ['6LSNi5Gup_Q', 7094, 7353, "letter song"],
+        ['6LSNi5Gup_Q', 7598, 7833, "夜に駆ける"],
+        ['6LSNi5Gup_Q', 7982, 8188, "約束をしよう"],
+
         //2020.10.24 【歌枠/#3】まったりお歌配信♪
         ['97xzUQ25_dM', 560, 759, "1925"],
         ['97xzUQ25_dM', 894, 1191, "空の青さを知る人よ"],
