@@ -5,7 +5,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * 標籤
      * @type {string[]}
      */
-    var tags = ["Kanduki", "Ama", "public"];
+     var tags = ["Kanduki", "Ama", "KandukiAma", "public"];
     /**
      * 播放清單名稱
      * @type {string}
@@ -20,6 +20,19 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.10.29 【歌枠/#5】ボカロ縛り歌枠♪
+        ['d0d8heiAuaU', 424, 642, "メランコリック"],
+        ['d0d8heiAuaU', 1045, 1228, "二息歩行"],
+        ['d0d8heiAuaU', 1564, 1848, "キャットフード"],
+        ['d0d8heiAuaU', 2170, 2454, "サリシノハラ"],
+        ['d0d8heiAuaU', 2686, 2973, "ネトゲ廃人シュプレヒコール"],
+        ['d0d8heiAuaU', 3248, 3461, "だってだってだって"],
+        ['d0d8heiAuaU', 3708, 3892, "ルマ"],
+        ['d0d8heiAuaU', 4408, 4666, "メルト"],
+        ['d0d8heiAuaU', 4844, 5083, "千本桜"],
+        ['d0d8heiAuaU', 5224, 5500, "少女レイ"],
+        ['d0d8heiAuaU', 5862, 6108, "愛言葉III"],
+
         //2020.10.27 【歌枠/#4】アカペラ歌枠♪   //無配樂，優先篩掉
       //['6LSNi5Gup_Q', 344, , "テルーの唄"],//被消音
         ['6LSNi5Gup_Q', 890, 975, "蒼のエーテル"],
