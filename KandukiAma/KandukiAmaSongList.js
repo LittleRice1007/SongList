@@ -20,6 +20,17 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.11.06 【歌枠/#7】ゲリラ歌枠♪
+        ['0N1N8CxAXho', 272, 557, "Q＆Aリサイタル"],
+        ['0N1N8CxAXho', 906, 1130, "センチメートル"],
+        ['0N1N8CxAXho', 1350, 1627, "恋空予報"],
+        ['0N1N8CxAXho', 1792, 2044, "残酷な天使のテーゼ"],
+        ['0N1N8CxAXho', 2358, 2593, "DISCOTHEQUE"],
+        ['0N1N8CxAXho', 2888, 3086, "え？あぁ、そう。"],
+        ['0N1N8CxAXho', 3420, 3674, "恋愛サーキュレーション"],
+        ['0N1N8CxAXho', 3916, 4174, "夜に駆ける"],
+        ['0N1N8CxAXho', 4366, 4685, "ループ"],
+
         //2020.11.03 【歌枠/#6】まったりお歌配信♪
         ['88Vr2WnRCcY', 576, 817, "プラチナ"],
         ['88Vr2WnRCcY', 1302, 1656, "うたかた花火"],
@@ -56,14 +67,14 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['6LSNi5Gup_Q', 2940, 3180, "ダイヤモンドクレパス"],
         ['6LSNi5Gup_Q', 3520, 3793, "rain stops, good-bye"],
         ['6LSNi5Gup_Q', 3924, 4125, "かくれんぼ"],
-        ['6LSNi5Gup_Q', 4790, 4870, "プラチナ"],
+      //['6LSNi5Gup_Q', 4790, 4870, "プラチナ"],//new
         ['6LSNi5Gup_Q', 5010, 5184, "カムパネルラ"],
         ['6LSNi5Gup_Q', 5410, 5652, "secret base"],
         ['6LSNi5Gup_Q', 5866, 6017, "独りんぼエンヴィー"],
-        ['6LSNi5Gup_Q', 6160, 6455, "just be friends"],
+      //['6LSNi5Gup_Q', 6160, 6455, "just be friends"],//new
         ['6LSNi5Gup_Q', 6756, 6871, "Trancing Pulse"],
         ['6LSNi5Gup_Q', 7094, 7353, "letter song"],
-        ['6LSNi5Gup_Q', 7598, 7833, "夜に駆ける"],
+      //['6LSNi5Gup_Q', 7598, 7833, "夜に駆ける"],//new
         ['6LSNi5Gup_Q', 7982, 8188, "約束をしよう"],
 
         //2020.10.24 【歌枠/#3】まったりお歌配信♪
@@ -86,13 +97,13 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
         //2020.10.22 【歌枠/#2】まったりお歌配信♪
         ['K_hqLj2bkkY', 310, 479, "ムーンライト伝説"],
-        ['K_hqLj2bkkY', 708, 1006, "Q&Aリサイタル！"],
+      //['K_hqLj2bkkY', 708, 1006, "Q&Aリサイタル！"],//new
         ['K_hqLj2bkkY', 1286, 1540, "恋愛裁判"],
         ['K_hqLj2bkkY', 1849, 2059, "ハレ晴レユカイ"],
-        ['K_hqLj2bkkY', 2394, 2747, "Wishing"],
+      //['K_hqLj2bkkY', 2394, 2747, "Wishing"],//new
         ['K_hqLj2bkkY', 2922, 3174, "桃色片想い"],
         ['K_hqLj2bkkY', 3444, 3588, "自由への扉"],
-        ['K_hqLj2bkkY', 3864, 4118, "残酷な天使のテーゼ"],
+      //['K_hqLj2bkkY', 3864, 4118, "残酷な天使のテーゼ"],//new
         ['K_hqLj2bkkY', 4385, 4556, "Booo！"],
         ['K_hqLj2bkkY', 4699, 4948, "紅一葉"],
         ['K_hqLj2bkkY', 5050, 5240, "タッチ"],
@@ -101,7 +112,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
         //2020.10.19 【歌枠/#1】まったりお歌配信♪
         ['KIWpV4sXoEQ', 385, 662, "風になる"],
-        ['KIWpV4sXoEQ', 1096, 1415, "ループ"],
+      //['KIWpV4sXoEQ', 1096, 1415, "ループ"],///new
         ['KIWpV4sXoEQ', 1570, 1774, "ただ君に晴れ"],
         ['KIWpV4sXoEQ', 2187, 2428, "YUME日和"],
         ['KIWpV4sXoEQ', 2638, 2917, "ハロ/ハワユ"],
@@ -111,8 +122,8 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['KIWpV4sXoEQ', 4896, 5213, "ハナミズキ"],
         ['KIWpV4sXoEQ', 5419, 5508, "香水"],
         ['KIWpV4sXoEQ', 5665, 5967, "キラキラ"],
-        ['KIWpV4sXoEQ', 6192, 6416, "あまのテーマ"],
-        ['KIWpV4sXoEQ', 6918, 7249, "変わらないもの"],
+      //['KIWpV4sXoEQ', 6192, 6416, "あまのテーマ"],//new
+      //['KIWpV4sXoEQ', 6918, 7249, "変わらないもの"],//new
 
     ];
 
