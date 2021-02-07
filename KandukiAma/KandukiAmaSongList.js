@@ -20,6 +20,19 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.11.09 【歌枠/#8】ボカロ縛り歌枠♪
+        ['HHUzjK5cK2w', 245, 525, "ハロ/ハワユ"],
+        ['HHUzjK5cK2w', 950, 1186, "ルカルカ★ナイトフィーバー"],
+        ['HHUzjK5cK2w', 1560, 1837, "ロミオとシンデレラ"],
+        ['HHUzjK5cK2w', 2103, 2322, "メランコリック"],
+        ['HHUzjK5cK2w', 2588, 2821, "Calc."],
+      //['HHUzjK5cK2w', 3068, 0, "glow"],//被剪掉了
+        ['HHUzjK5cK2w', 3323, 3590, "crack"],
+        ['HHUzjK5cK2w', 3779, 3992, "妄想税"],
+        ['HHUzjK5cK2w', 4207, 4453, "ファンサ"],
+        ['HHUzjK5cK2w', 4574, 4834, "白い雪のプリンセスは"],
+        ['HHUzjK5cK2w', 5093, 5227, "KING"],
+
         //2020.11.06 【歌枠/#7】ゲリラ歌枠♪
         ['0N1N8CxAXho', 272, 557, "Q＆Aリサイタル"],
         ['0N1N8CxAXho', 906, 1130, "センチメートル"],
@@ -46,7 +59,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['88Vr2WnRCcY', 6172, 6410, "あまのテーマ"],
 
         //2020.10.29 【歌枠/#5】ボカロ縛り歌枠♪
-        ['d0d8heiAuaU', 424, 642, "メランコリック"],
+      //['d0d8heiAuaU', 424, 642, "メランコリック"],//new
         ['d0d8heiAuaU', 1045, 1228, "二息歩行"],
         ['d0d8heiAuaU', 1564, 1848, "キャットフード"],
         ['d0d8heiAuaU', 2170, 2454, "サリシノハラ"],
@@ -115,7 +128,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['KIWpV4sXoEQ', 1096, 1415, "ループ"],///new
         ['KIWpV4sXoEQ', 1570, 1774, "ただ君に晴れ"],
         ['KIWpV4sXoEQ', 2187, 2428, "YUME日和"],
-        ['KIWpV4sXoEQ', 2638, 2917, "ハロ/ハワユ"],
+      //['KIWpV4sXoEQ', 2638, 2917, "ハロ/ハワユ"],//new
         ['KIWpV4sXoEQ', 3239, 3488, "only my railgun"],
         ['KIWpV4sXoEQ', 3883, 4124, "君の体温"],
         ['KIWpV4sXoEQ', 4316, 4658, "君の知らない物語"],
