@@ -11,3 +11,6 @@
     請透過分支版本的YoutubeClipPlaylist(未公開，測試用)
 
     https://github.com/LittleRice1007/YoutubeClipPlaylist-LittleRice/raw/main/YoutubeClipPlaylist.user.js
+
+## 注意
+    和新版本的YoutubeClipPlaylist不相容(新版本採用JSON with comment)
