@@ -20,6 +20,26 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.11.20 【歌枠/#12】singing♪2000人ありがとう！
+        ['Xi3C3WOUzXg', 60, 194, "KING"],
+        ['Xi3C3WOUzXg', 678, 911, "赤いフリージア"],
+        ['Xi3C3WOUzXg', 1219, 1487, "春擬き"],
+        ['Xi3C3WOUzXg', 1642, 1924, "妄想感傷代償連盟"],
+        ['Xi3C3WOUzXg', 2292, 2543, "シュガーソングとビターステップ"],
+        ['Xi3C3WOUzXg', 2790, 2986, "ただ君に晴れ"],
+        ['Xi3C3WOUzXg', 3180, 3436, "つけまつける"],
+        ['Xi3C3WOUzXg', 3542, 3816, "kiss"],
+        ['Xi3C3WOUzXg', 3945, 4155, "ハレ晴レユカイ"],
+        ['Xi3C3WOUzXg', 4283, 4479, "君をのせて"],
+        ['Xi3C3WOUzXg', 4600, 4850, "神のまにまに"],
+        ['Xi3C3WOUzXg', 4982, 5172, "タッチ"],
+        ['Xi3C3WOUzXg', 5322, 5602, "トライアングラー"],
+        ['Xi3C3WOUzXg', 5608, 5857, "一度だけの戀なら"],
+        ['Xi3C3WOUzXg', 6064, 6425, "たばこ"],
+        ['Xi3C3WOUzXg', 6650, 6924, "オレンジ"],
+        ['Xi3C3WOUzXg', 7035, 7287, "Lost my music"],
+        ['Xi3C3WOUzXg', 7390, 7665, "天使にふれたよ！"],
+
         //2020.11.18 【歌枠/#11】singing♪まったり歌うよ！
         ['3K5KDKQ2U0c', 380, 593, "渡良瀬橋"],
         ['3K5KDKQ2U0c', 938, 1177, "千本桜"],
@@ -97,7 +117,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['HHUzjK5cK2w', 3779, 3992, "妄想税"],
         ['HHUzjK5cK2w', 4207, 4453, "ファンサ"],
         ['HHUzjK5cK2w', 4574, 4834, "白い雪のプリンセスは"],
-        ['HHUzjK5cK2w', 5093, 5227, "KING"],
+      //['HHUzjK5cK2w', 5093, 5227, "KING"],//new
 
         //2020.11.06 【歌枠/#7】ゲリラ歌枠♪
         ['0N1N8CxAXho', 272, 557, "Q＆Aリサイタル"],
@@ -164,7 +184,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['97xzUQ25_dM', 2822, 3062, "めざせポケモンマスター"],//new
       //['97xzUQ25_dM', 3284, 3524, "気まぐれロマンティック"],//new
         ['97xzUQ25_dM', 3725, 3954, "わんわんおにゃんにゃんお"],
-        ['97xzUQ25_dM', 4300, 4535, "赤いフリージア"],
+      //['97xzUQ25_dM', 4300, 4535, "赤いフリージア"],//new
         ['97xzUQ25_dM', 4690, 4857, "アンパンマンマーチ"],
         ['97xzUQ25_dM', 4954, 5867, "勇気りんりん"],
         ['97xzUQ25_dM', 5080, 5351, "サンサンたいそう"],
@@ -178,21 +198,21 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['K_hqLj2bkkY', 310, 479, "ムーンライト伝説"],
       //['K_hqLj2bkkY', 708, 1006, "Q&Aリサイタル！"],//new
         ['K_hqLj2bkkY', 1286, 1540, "恋愛裁判"],
-        ['K_hqLj2bkkY', 1849, 2059, "ハレ晴レユカイ"],
+      //['K_hqLj2bkkY', 1849, 2059, "ハレ晴レユカイ"],//new
       //['K_hqLj2bkkY', 2394, 2747, "Wishing"],//new
       //['K_hqLj2bkkY', 2922, 3174, "桃色片想い"],//new
         ['K_hqLj2bkkY', 3444, 3588, "自由への扉"],
       //['K_hqLj2bkkY', 3864, 4118, "残酷な天使のテーゼ"],//new
         ['K_hqLj2bkkY', 4385, 4556, "Booo！"],
         ['K_hqLj2bkkY', 4699, 4948, "紅一葉"],
-        ['K_hqLj2bkkY', 5050, 5240, "タッチ"],
+      //['K_hqLj2bkkY', 5050, 5240, "タッチ"],//new
         ['K_hqLj2bkkY', 5541, 5812, "雨とカプチーノ"],
         ['K_hqLj2bkkY', 6000, 6258, "私、アイドル宣言"],
 
         //2020.10.19 【歌枠/#1】まったりお歌配信♪
         ['KIWpV4sXoEQ', 385, 662, "風になる"],
       //['KIWpV4sXoEQ', 1096, 1415, "ループ"],///new
-        ['KIWpV4sXoEQ', 1570, 1774, "ただ君に晴れ"],
+      //['KIWpV4sXoEQ', 1570, 1774, "ただ君に晴れ"],//new
         ['KIWpV4sXoEQ', 2187, 2428, "YUME日和"],
       //['KIWpV4sXoEQ', 2638, 2917, "ハロ/ハワユ"],//new
       //['KIWpV4sXoEQ', 3239, 3488, "only my railgun"],//new
