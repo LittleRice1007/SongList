@@ -20,6 +20,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.11.25 【歌枠/#13】singing♪まったり歌うよ！
+        //沒有人整理，先略過
+
         //2020.11.20 【歌枠/#12】singing♪2000人ありがとう！
         ['Xi3C3WOUzXg', 60, 194, "KING"],
         ['Xi3C3WOUzXg', 678, 911, "赤いフリージア"],
