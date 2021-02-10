@@ -20,6 +20,27 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2021.02.08 5ヶ月ぶりのハニワ限定歌枠💖いっぱい歌う！！！
+        ['qF-MG6s7Z84', 230, 388, "告白予行練習"],
+        ['qF-MG6s7Z84', 482, 746, "私、アイドル宣言"],
+        ['qF-MG6s7Z84', 865, 1135, "No.1"],
+      //['qF-MG6s7Z84', 1234, 1492, "ワタシノテンシ"],//有Cover的版本
+        ['qF-MG6s7Z84', 1581, 1836, "病名恋ワズライ"],
+        ['qF-MG6s7Z84', 1915, 2153, "ノスタルジックレインフォール"],
+        ['qF-MG6s7Z84', 2228, 2478, "タナタロ"],
+        ['qF-MG6s7Z84', 2585, 2801, "ヤキモチの答え-anther story-"],
+        ['qF-MG6s7Z84', 2885, 3127, "ミスター・ダーリン"],
+        ['qF-MG6s7Z84', 3227, 3440, "ヒロインたるもの！"],
+        ['qF-MG6s7Z84', 3558, 3791, "ツインズ"],
+        ['qF-MG6s7Z84', 3883, 4134, "東京ウインターセッション"],
+        ['qF-MG6s7Z84', 4235, 4537, "日曜日の秘密"],
+        ['qF-MG6s7Z84', 4620, 4866, "カヌレ"],
+        ['qF-MG6s7Z84', 4942, 5170, "ハートの主張"],
+        ['qF-MG6s7Z84', 5265, 5516, "可愛くなりたい"],
+        ['qF-MG6s7Z84', 5618, 5931, "大嫌いなはずだった"],
+        ['qF-MG6s7Z84', 6043, 6289, "ファンサ"],
+        ['qF-MG6s7Z84', 6395, 6592, "ドレミファロンド"],
+
         //2021.02.01 2月最初の定期歌枠🌟
         ['FQwsxdWB9nU', 274, 521, "恋"],
         ['FQwsxdWB9nU', 615, 834, "すーぱーぬこわーるど"],
@@ -41,11 +62,11 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['FQwsxdWB9nU', 5837, 6118, "創聖のアクエリオン"],
         ['FQwsxdWB9nU', 6203, 6415, "深海少女"],
         ['FQwsxdWB9nU', 6506, 6790, "ホシアイ"],
-        ['FQwsxdWB9nU', 6871, 7067, "レミファロンド"],
+      //['FQwsxdWB9nU', 6871, 7067, "レミファロンド"],//new
 
         //2021.01.25 心を込めて届けます🎶
         ['c48Skc869ug', 230, 491, "白い雪のプリンセスは"],
-        ['c48Skc869ug', 563, 776, "ヒロインたるもの！"],
+      //['c48Skc869ug', 563, 776, "ヒロインたるもの！"],//new
         ['c48Skc869ug', 892, 1118, "レディーレ"],
         ['c48Skc869ug', 1172, 1370, "春を告げる"],
         ['c48Skc869ug', 1436, 1692, "贖罪"],
@@ -139,13 +160,13 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['JLKfH8F2CTY', 2148, 2394, "愛言葉Ⅲ"],
         ['JLKfH8F2CTY', 2511, 2824, "奏"],
         ['JLKfH8F2CTY', 2977, 3231, "今好きになる。"],
-        ['JLKfH8F2CTY', 3335, 3586, "可愛くなりたい"],
+      //['JLKfH8F2CTY', 3335, 3586, "可愛くなりたい"],//new
         ['JLKfH8F2CTY', 3750, 3973, "小さな恋のうた"],
         ['JLKfH8F2CTY', 4122, 4343, "負けないで"],
         ['JLKfH8F2CTY', 4482, 4771, "アイネクライネ"],
       //['JLKfH8F2CTY', 4875, 5118, "恋"],//new
         ['JLKfH8F2CTY', 5293, 5545, "恋愛サーキュレーション"],
-        ['JLKfH8F2CTY', 5677, 5922, "ファンサ"],
+      //['JLKfH8F2CTY', 5677, 5922, "ファンサ"],//new
         ['JLKfH8F2CTY', 6004, 6237, "千本桜"],
       //['JLKfH8F2CTY', 6328, 6578, "おちゃめ機能"],//new
       //['JLKfH8F2CTY', 6691, 6887, "ドレミファロンド"],//new
@@ -155,7 +176,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
 
         //2020.12.21 全力全開Singing!!!
         ['nOmnsDGeyzo', 331, 547, "ダダダダ天使"],
-        ['nOmnsDGeyzo', 734, 988, "病名恋ワズライ"],
+      //['nOmnsDGeyzo', 734, 988, "病名恋ワズライ"],//new
         ['nOmnsDGeyzo', 1084, 1315, "劣等上等"],
       //['nOmnsDGeyzo', 1398, 1669, "猫"],//new
         ['nOmnsDGeyzo', 1771, 2027, "このピアノでお前を8759632145回ぶん殴る"],
@@ -268,7 +289,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         //2020.11.23 デビュー3ヶ月ありがとう❄🐾
         ['Fh1CehRKDmY', 314, 539, "行くぜっ!怪盗少女"],
       //['Fh1CehRKDmY', 642, 890, "おちゃめ機能"],//new
-        ['Fh1CehRKDmY', 967, 1231, "私、アイドル宣言"],
+      //['Fh1CehRKDmY', 967, 1231, "私、アイドル宣言"],//new
         ['Fh1CehRKDmY', 1352, 1540, "春を告げる"],
         ['Fh1CehRKDmY', 1625, 1867, "言って。"],
         ['Fh1CehRKDmY', 1931, 2131, "ゆるふわ樹海ガール"],
@@ -299,7 +320,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['fH9TNsYjl4c', 2714, 2965, "可愛くなりたい"],//new
       //['fH9TNsYjl4c', 3079, 3334, "病名恋ワズライ"],//new
       //['fH9TNsYjl4c', 3403, 3658, "今好きになる。"],//new
-        ['fH9TNsYjl4c', 3740, 3983, "ミスター・ダーリン"],
+      //['fH9TNsYjl4c', 3740, 3983, "ミスター・ダーリン"],//new
       //['fH9TNsYjl4c', 4057, 4264, "カタオモイ"],//new
         ['fH9TNsYjl4c', 4379, 4670, "どうぶつ占い"],
         ['fH9TNsYjl4c', 4750, 4942, "おねがいダーリン"],
@@ -358,7 +379,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['q5S886m4d00', 3348, 3542, "ボッカデラベリタ"],//new
       //['q5S886m4d00', 3610, 3838, "虎視眈々"],//new
       //['q5S886m4d00', 3894, 4152, "からくりピエロ"],//new
-        ['q5S886m4d00', 4227, 4445, "ヤキモチの答え-anther story-"],
+      //['q5S886m4d00', 4227, 4445, "ヤキモチの答え-anther story-"],//new
         ['q5S886m4d00', 4510, 4797, "別の人の彼女になったよ"],
       //['q5S886m4d00', 4875, 5097, "カタオモイ"],//new
         ['q5S886m4d00', 5227, 5489, "サイレントマジョリティー"],
@@ -463,7 +484,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['j1gyZtiOBP0', 1354, 1655, "心拍数＃0822"],//new
         ['j1gyZtiOBP0', 1887, 2277, "桜の雨"],
       //['j1gyZtiOBP0', 2672, 2915, "ドナーソング"],//new
-        ['j1gyZtiOBP0', 3560, 3863, "大嫌いなはずだった。"],
+      //['j1gyZtiOBP0', 3560, 3863, "大嫌いなはずだった。"],//new
       //['j1gyZtiOBP0', 4292, 4613, "奏"],//new
       //['j1gyZtiOBP0', 4930, 5144, "くらべられっ子"],//new
       //['j1gyZtiOBP0', 5296, 5492, "ドレミファロンド"],//new
@@ -474,7 +495,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['j1gyZtiOBP0', 1122, 1434, "世界は恋に落ちている"],
       //['j1gyZtiOBP0', 1563, 1818, "今好きになる"],//new
       //['j1gyZtiOBP0', 1982, 2186, "初恋の絵本"],//new
-        ['j1gyZtiOBP0', 2353, 2600, "カヌレ"],
+      //['j1gyZtiOBP0', 2353, 2600, "カヌレ"],//new
         ['j1gyZtiOBP0', 2750, 2975, "東京サマーセッション"],
         ['j1gyZtiOBP0', 3099, 3385, "スキキライ"],
       //['j1gyZtiOBP0', 3548, 3781, "プライド革命"],//new
@@ -490,7 +511,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['BaSrzicFqE4', 1065, 1227, "夜行"],//new
       //['BaSrzicFqE4', 1492, 1673, "モザイクロール"],//new
       //['BaSrzicFqE4', 1827, 2134, "夜明けと蛍"],//new
-        ['BaSrzicFqE4', 2276, 2434, "告白予行練習"],
+      //['BaSrzicFqE4', 2276, 2434, "告白予行練習"],//new
       //['BaSrzicFqE4', 2603, 2814, "深海少女"]//new
       // ['BaSrzicFqE4', 3010, 3260, "ワールドイズマイン"],//new
       //['BaSrzicFqE4', 3440, 3640, "気まぐれメルシィ"],//new
