@@ -20,6 +20,27 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.04 【歌枠/#15(1/2)】singing♪アニソン縛り！
+        ['ddPeHTDKfcc', 396, 582, "ヴィーナスとジーザス"],
+        ['ddPeHTDKfcc', 805, 997, "少女S"],
+        ['ddPeHTDKfcc', 1232, 1496, "オリオンをなぞる"],
+        ['ddPeHTDKfcc', 1828, 2047, "ウラオモテフォーチュン"],
+        ['ddPeHTDKfcc', 2216, 2352, "キューティーハニー"],
+        ['ddPeHTDKfcc', 2556, 2804, "again"],
+        ['ddPeHTDKfcc', 3004, 3318, "魂のルフラン"],
+        ['ddPeHTDKfcc', 3430, 3647, "ブルーバード"],
+        ['ddPeHTDKfcc', 3748, 4062, "私たちになりたくて"],
+        ['ddPeHTDKfcc', 4172, 4394, "Catch You Cathe Me"],
+        //2020.12.04 【歌枠/#15(2/2)】singing♪アニソン縛り！
+        ['zoY3SiIPY8w', 200, 493, "Dreams"],
+        ['zoY3SiIPY8w', 626, 839, "バラライカ"],
+        ['zoY3SiIPY8w', 980, 1214, "空想メソロギヰ"],
+        ['zoY3SiIPY8w', 1406, 1641, "silkey heart"],
+        ['zoY3SiIPY8w', 1740, 1993, "ANGELUS"],
+        ['zoY3SiIPY8w', 2176, 2451, "W:Wonder tale"],
+        ['zoY3SiIPY8w', 2574, 2822, "スキ？キライ！？スキ！！！"],
+        ['zoY3SiIPY8w', 3050, 3275, "rainbow"],
+
         //2020.12.02 【歌枠/#14】singing♪お晝のゲリラ！
         ['tema5tzfhp4', 506, 666, "からくりピエロ"],
         ['tema5tzfhp4', 1050, 1349, "奈落の花"],
@@ -32,7 +53,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['tema5tzfhp4', 5120, 5451, "雪の華"],
         ['tema5tzfhp4', 5672, 6072, "夕日坂"],
         ['tema5tzfhp4', 6174, 6268, "Lemon"],
-        ['tema5tzfhp4', 6438, 6609, "ムーンライト伝説"],
+        ['tema5tzfhp4', 6438, 6609 , "ムーンライト伝説"],
 
         //2020.11.25 【歌枠/#13】singing♪まったり歌うよ！
         //沒有人整理，先略過
