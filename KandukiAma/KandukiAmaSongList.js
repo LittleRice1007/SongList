@@ -20,6 +20,9 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.20 【歌ってみた】夜に駆ける / YOASOBI
+        ['J6H1h6XlgGs', 0, 0, "夜に駆ける"],
+
         //2020.12.19 【歌枠/#19】singing♪たくさん歌うよ！
         ['cJIEFxfpsmE', 274, 523, "LOVE涙色"],
         ['cJIEFxfpsmE', 718, 933, "オツキミリサイタル"],
@@ -27,7 +30,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['cJIEFxfpsmE', 1486, 1755, "U&I"],
         ['cJIEFxfpsmE', 2072, 2292, "ハッピー⭐︎マテリアル"],
         ['cJIEFxfpsmE', 2418, 2686, "炎"],
-        ['cJIEFxfpsmE', 2812, 3077, "夜に駆ける"],
+      //['cJIEFxfpsmE', 2812, 3077, "夜に駆ける"],//new
         ['cJIEFxfpsmE', 3288, 3576, "愛してるばんざーい！"],
         ['cJIEFxfpsmE', 3798, 4036, "千本桜"],
         ['cJIEFxfpsmE', 4150, 4368, "恋愛裁判"],
