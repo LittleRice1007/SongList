@@ -20,6 +20,20 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.20 【歌枠/#20】singing♪新作投稿しました！ゲリラ！
+        ['6e5_Uams8Yg', 477, 677, "1925"],
+        ['6e5_Uams8Yg', 952, 1237, "秘密のトワレ"],
+        ['6e5_Uams8Yg', 1480, 1727, "からくりピエロ"],
+      //['6e5_Uams8Yg', 1931, 2195, "夜に駆ける"],//有Cover的版本
+        ['6e5_Uams8Yg', 2405, 2734, "フリージア"],
+        ['6e5_Uams8Yg', 2948, 3201, "恋愛裁判"],
+        ['6e5_Uams8Yg', 3378, 3664, "Q&Aリサイタル！"],
+        ['6e5_Uams8Yg', 3758, 4057, "空の青さを知る人よ"],
+        ['6e5_Uams8Yg', 4223, 4520, "奏"],
+        ['6e5_Uams8Yg', 4802, 5044, "プラチナ"],
+        ['6e5_Uams8Yg', 5051, 5184, "KING"],
+        ['6e5_Uams8Yg', 5720, 5965, "愛言葉III"],
+
         //2020.12.20 【歌ってみた】夜に駆ける / YOASOBI
         ['J6H1h6XlgGs', 0, 0, "夜に駆ける"],
 
@@ -82,7 +96,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['2oyEcV3NJTs', 3210, 3540, "フリージア"],
         ['2oyEcV3NJTs', 3748, 3990, "ずっと好きでいいですか"],
         ['2oyEcV3NJTs', 4110, 4390, "恋するフォーチュンクッキー"],
-        ['2oyEcV3NJTs', 4466, 4601, "KING"],
+      //['2oyEcV3NJTs', 4466, 4601, "KING"],//new
         ['2oyEcV3NJTs', 4788, 5057, "コネクト"],
         ['2oyEcV3NJTs', 5287, 5577, "Dreams"],
         ['2oyEcV3NJTs', 5706, 5957, "アンジェラス"],
