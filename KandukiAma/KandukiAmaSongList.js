@@ -20,6 +20,23 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
      * @type {*[]}
      */
     var newPlaylist = [
+        //2020.12.24 【歌枠/#21】singing♪冬色あまでクリスマスイブライブ！
+        ['NeQbo7Fs3Js', 63, 277, "きよしこの夜"],
+        ['NeQbo7Fs3Js', 625, 937, "初めての恋が終わる時"],
+        ['NeQbo7Fs3Js', 1163, 1497, "Winter Love"],
+        ['NeQbo7Fs3Js', 1656, 1816, "赤鼻のトナカイ"],
+        ['NeQbo7Fs3Js', 1914, 2247, "雪の華"],
+        ['NeQbo7Fs3Js', 2378, 2690, "恋人がサンタクロース"],
+        ['NeQbo7Fs3Js', 2845, 3173, "クリスマスソング"],
+        ['NeQbo7Fs3Js', 3286, 3481, "好き！雪！本気マジック"],
+        ['NeQbo7Fs3Js', 3638, 3965, "冬がくれた予感"],
+        ['NeQbo7Fs3Js', 4204, 4325, "ジングルベル"],
+        ['NeQbo7Fs3Js', 4385, 4653, "Love Marginal"],
+        ['NeQbo7Fs3Js', 4784, 4996, "ぴったりしたいX'mas!"],
+        ['NeQbo7Fs3Js', 5601, 5864, "雪、無音、窓辺にて"],
+        ['NeQbo7Fs3Js', 5942, 6201, "白い雪のプリンセスは"],
+        ['NeQbo7Fs3Js', 6436, 6689, "Snow Halation"],
+
         //2020.12.20 【歌枠/#20】singing♪新作投稿しました！ゲリラ！
         ['6e5_Uams8Yg', 477, 677, "1925"],
         ['6e5_Uams8Yg', 952, 1237, "秘密のトワレ"],
@@ -108,7 +125,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['2oyEcV3NJTs', 8548, 8767, "渡良瀬橋"],
         ['2oyEcV3NJTs', 8856, 9107, "嵐の中で輝いて"],
         ['2oyEcV3NJTs', 9398, 9641, "Baby Sweet Berry Love"],
-        ['2oyEcV3NJTs', 9790, 10053, "雪、無音、窓辺にて"],
+      //['2oyEcV3NJTs', 9790, 10053, "雪、無音、窓辺にて"],//new
         ['2oyEcV3NJTs', 10264, 10465, "rainbow"],
 
         //2020.12.09 【歌枠/#16】singing♪たくさん歌うよ！
@@ -163,7 +180,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['tema5tzfhp4', 2732, 3045, "ガーネット"],
       //['tema5tzfhp4', 3316, 3592, "変わらないもの"],//new
         ['tema5tzfhp4', 4390, 4695, "GO!GO!Heaven"],
-        ['tema5tzfhp4', 5120, 5451, "雪の華"],
+      //['tema5tzfhp4', 5120, 5451, "雪の華"],//new
         ['tema5tzfhp4', 5672, 6072, "夕日坂"],
         ['tema5tzfhp4', 6174, 6268, "Lemon"],
         ['tema5tzfhp4', 6438, 6609 , "ムーンライト伝説"],
@@ -241,7 +258,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['k29_aHtq4Ic', 3015, 3109, "ワールドイズマイン"],//new
         ['k29_aHtq4Ic', 3350, 3430, "ローリンガール"],
         ['k29_aHtq4Ic', 3613, 3708, "カレンダーガール"],
-        ['k29_aHtq4Ic', 3824, 3936, "初めての恋が終わる時"],
+      //['k29_aHtq4Ic', 3824, 3936, "初めての恋が終わる時"],//new
       //['k29_aHtq4Ic', 4308, 4385, "一番の宝物"],//new
         ['k29_aHtq4Ic', 4532, 4620, "Alchemy"],
       //['k29_aHtq4Ic', 4820, 4884, "ライオン"],//清唱優先篩掉
@@ -267,7 +284,7 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
         ['HHUzjK5cK2w', 3323, 3590, "crack"],
         ['HHUzjK5cK2w', 3779, 3992, "妄想税"],
       //['HHUzjK5cK2w', 4207, 4453, "ファンサ"],//new
-        ['HHUzjK5cK2w', 4574, 4834, "白い雪のプリンセスは"],
+      //['HHUzjK5cK2w', 4574, 4834, "白い雪のプリンセスは"],//new
       //['HHUzjK5cK2w', 5093, 5227, "KING"],//new
 
         //2020.11.06 【歌枠/#7】ゲリラ歌枠♪
@@ -286,10 +303,10 @@ var myPlaylist = (typeof myPlaylist === 'undefined') ? [] : myPlaylist;
       //['88Vr2WnRCcY', 1302, 1656, "うたかた花火"],//new
         ['88Vr2WnRCcY', 1840, 2137, "just be friends"],
       //['88Vr2WnRCcY', 2372, 2668, "ライオン"],//new
-        ['88Vr2WnRCcY', 2914, 3163, "snow halation"],
+      //['88Vr2WnRCcY', 2914, 3163, "snow halation"],//new
       //['88Vr2WnRCcY', 3428, 3705, "変わらないもの"],//new
       //['88Vr2WnRCcY', 3978, 4331, "wishing"],//new
-        ['88Vr2WnRCcY', 4566, 4892, "冬がくれた予感"],
+      //['88Vr2WnRCcY', 4566, 4892, "冬がくれた予感"],//new
         ['88Vr2WnRCcY', 5095, 5152, "paranoia"],
         ['88Vr2WnRCcY', 5270, 5509, "純情スカート"],
         ['88Vr2WnRCcY', 5710, 5997, "ブラック★ロックシューター"],//new
